@@ -8,7 +8,7 @@
         
     }
 
-    const res = countWordOccurrences("TypeScript is great. I love TypeScript!. this is typescript code", "typescript")
+    const res = countWordOccurrences("I love typescript", "typescript")
     console.log(res);
     //
 }

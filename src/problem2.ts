@@ -7,8 +7,7 @@
         return removeDuplicateArray
     }
 
-    // const res: number[] = removeDuplicates([1, 2, 2, 3, 4, 4, 5])
-    const res: number[] = removeDuplicates([5,5,3, 1, 4, 2, 2])
+    const res: number[] = removeDuplicates([1, 2, 2, 3, 4, 4, 5])
 
     console.log(res);
     
